@@ -1,0 +1,25 @@
+{
+  "name": "@17ued/react-native-audio-player",
+  "version": "0.2.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pub": "npm publish --registry https://registry.npmjs.org --access public",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuhong1happy/react-native-audio-player.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "react-native-audio-player"
+  ],
+  "author": "Holly Liu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liuhong1happy/react-native-audio-player/issues"
+  },
+  "homepage": "https://github.com/liuhong1happy/react-native-audio-player#readme"
+}
