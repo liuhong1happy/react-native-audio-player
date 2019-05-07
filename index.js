@@ -1,7 +1,7 @@
 import { 
     NativeModules
 } from 'react-native';
-import resolveAssetSource from ('react-native/Libraries/Image/resolveAssetSource');
+import resolveAssetSource from 'react-native/Libraries/Image/resolveAssetSource';
 
 const AudioPlayer = NativeModules.AudioPlayer
 
