@@ -1,4 +1,4 @@
-package com._17ued.reactnative.audioplayer;
+package com.c17ued.reactnative.audioplayer;
 
 import com.facebook.react.bridge.Promise;
 import com.facebook.react.bridge.ReactApplicationContext;
