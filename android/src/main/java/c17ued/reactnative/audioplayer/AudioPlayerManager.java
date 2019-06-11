@@ -20,7 +20,7 @@ public class AudioPlayerManager extends ReactContextBaseJavaModule {
 
     public AudioPlayerManager(ReactApplicationContext reactContext) {
         super(reactContext);
-        mediaPlayer = new MediaPlayerController();
+        mediaPlayer = new MediaPlayerController(reactContext);
     }
 
     @Override
