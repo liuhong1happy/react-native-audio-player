@@ -1,6 +1,6 @@
 {
-  "name": "@17ued/react-native-audio-player",
-  "version": "0.2.5",
+  "name": "@scxkkj/react-native-audio-player",
+  "version": "0.2.7",
   "description": "",
   "main": "index.js",
   "scripts": {
